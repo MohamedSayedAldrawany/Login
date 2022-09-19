@@ -1,0 +1,47 @@
+
+
+
+body{
+    background-color:  #24353f;
+    font-family: "Titillium Web", sans-serif;
+}
+.inputform{
+    background-color:  #24353f;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.form-control {
+    background-color: #24353f !important;
+  }
+  input:focus {
+    box-shadow: 0 0 0 0 transparent !important;
+    color: aliceblue !important;
+   
+  }
+
+  
+/* ?css about Home page */
+.home-massage {
+  background-color: #24353f;
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+  padding: 48px;
+}
+.navbar{
+  background-color: #24353f;
+  box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+
+.btn-outline-warning {
+  color: rgba(255,255,255,.5);
+}
+.btn-outline-warning:hover{
+  color: #fff;
+}
+.fw-30{
+    font-size: 30px;
+}
+
+
+
+
